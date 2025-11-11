@@ -1,4 +1,4 @@
-![헤더이미지](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=프론트를%20배우고%20있는%20배준우입니다.&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%B0%B0%EC%A4%80%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4.&fontSize=40&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
 
 [![JUNWOO GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNWOO)](https://github.com/JUNWOO/github-readme-stats)
@@ -17,5 +17,5 @@
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![ZOOM](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white) 
 
 ### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junwoo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNWOO&layout=compact)
 
